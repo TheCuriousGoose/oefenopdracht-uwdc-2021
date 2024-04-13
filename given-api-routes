@@ -1,0 +1,10 @@
+Start game:
+/api/start-game
+
+/api/save-throw
+
+/api/game-over
+
+/api/in-flight
+
+/api/bounce
